@@ -1,0 +1,27 @@
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+   z-index: -1;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+h1 {color:#E8266D  ;font-family:Lobster; padding: 15px;}
+h3 {color: #E8266D  ; font-family: Lobster; padding: 5px;}
+
+p {color: #E8266D; padding: 5px;}
+
+.quoteContainer {
+  background: #000000;
+  padding: 60px;
+  width: 65%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 25px;
+  font-size: 1.25em;
+  padding-bottom: 3%;
+    opacity: 0.7;
+}
+
+hr {padding: 15px;}
